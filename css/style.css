@@ -6,3 +6,9 @@
 h1 {
     text-align: center;
 }
+
+.users__list {
+    width: 16rem;
+    margin-left: auto;
+    margin-right: auto;
+}
